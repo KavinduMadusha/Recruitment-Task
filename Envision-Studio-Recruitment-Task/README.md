@@ -7,6 +7,7 @@ As part of the evaluation process, we let candidates make a small game in Unity.
 Please read the following instructions carefully before starting to work on it. Read them again before submitting.
 
 Preparations
+
 The very first thing you should do is read through these instructions. After that, send an e-mail to the email mentioned in the invite, with your suggested deadline for submission.
 This means you choose your own deadline. There is no need to ask us if the deadline is OK. After that, start working on the game and submit it no later than the deadline.
 
