@@ -15,6 +15,7 @@ Instructions
 
 Make a simple Match 3 game based on this Unity project.
 See the movie to get an idea of what it can look like.
+https://youtu.be/DItjr0D_fCI
 
 Unity version
 
